@@ -1,1 +1,2 @@
-# git_example
+# Wir provozieren einen Mergeconflict
+weils schön ist
